@@ -1,4 +1,4 @@
-#BlueJ class context
+#BlueJ class context 
 comment0.target=TextButton
 comment0.text=\n\ A\ Generic\ Button\ to\ display\ text\ that\ is\ clickable.\ Owned\ by\ a\ World,\ which\ controls\ click\n\ capturing.\n\ \n\ @author\ Star\ Xie\n\ @version\ December\ 2019\n
 comment1.params=text\ lightUp
